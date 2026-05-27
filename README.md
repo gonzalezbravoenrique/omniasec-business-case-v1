@@ -1,4 +1,4 @@
-# Prueba Técnica OMNIASEC (Google)
+# Prueba Técnica v1 OMNIASEC (Google) 
 
 ## El Reto 🕵️‍♂️
 Imagina que estás monitorizando los sistemas de la empresa Omniasec y te llegan estas dos alertas a tu panel de control (una de ellas parece corrupta o mal formateada):
